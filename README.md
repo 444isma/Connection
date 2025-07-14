@@ -1,6 +1,6 @@
 from pathlib import Path
 
-# HTML content of the fake virus prank page
+
 html_content = """
 <!DOCTYPE html>
 <html lang="fr">
